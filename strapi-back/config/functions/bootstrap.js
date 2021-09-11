@@ -1,5 +1,5 @@
-'use strict';
-
+"use strict";
+// dai@hotmail.com
 /**
  * An asynchronous bootstrap function that runs before
  * your application gets started.
